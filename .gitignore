@@ -70,6 +70,10 @@ instance/
 
 # Sphinx documentation
 docs/_build/
+task_plan.md
+findings.md
+progress.md
+tmp/
 
 # PyBuilder
 target/

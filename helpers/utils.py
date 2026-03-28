@@ -2,13 +2,12 @@
 This script contains general helper functions
 """
 
-from __main__ import *
+from helpers.import_packages import *
 import os
 import pickle
 import errno
 from statsmodels.tsa.seasonal import seasonal_decompose
 import tempfile
-import pandas as pdf
 import hashlib
 import itertools
 import re

@@ -3,7 +3,7 @@
 This script contains helper functions to compute the variable importance
 """
 
-from __main__ import *
+from helpers.import_packages import *
 import platform
 
 """

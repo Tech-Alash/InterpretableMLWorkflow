@@ -3,7 +3,8 @@ This script contains functions and parameters used to train and test the predict
 """
 
 
-from __main__ import *
+from helpers.import_packages import *
+import helpers.config as config
 nn0, nnf   = 5, 5  # parameters for th neural network (NN), specifies number of neurons per layer
 
 
