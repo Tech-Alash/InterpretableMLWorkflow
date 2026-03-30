@@ -97,9 +97,3 @@
 * ``helpers/utils_predict.py`` отвечает за модели, recursive forecasting и агрегацию прогнозов;
 * ``helpers/utils_importance.py`` отвечает за интерпретацию моделей;
 * ``collect_*.py`` и R-скрипты отвечают за упаковку результатов в исследовательские артефакты.
-
-Следующий шаг
-==============================
-
-Если нужен максимально близкий аналог Detectron2-style страницы ``data_loading``,
-переходи к :doc:`data_loading_and_preprocessing`.
